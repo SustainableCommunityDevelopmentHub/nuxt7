@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "defu": "^0.0.1",
-    "framework7": "^4.0.5",
-    "framework7-vue": "^4.0.5",
+    "framework7": "^4.0.6",
+    "framework7-vue": "^4.0.6",
     "less": "^3.9.0",
     "less-loader": "^4.1.0"
   },
@@ -39,7 +39,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "husky": "^1.3.1",
     "lint-staged": "^8.1.4",
-    "nuxt-edge": "^2.5.0-25836489.9f3c175b",
+    "nuxt-edge": "^2.5.0-25850891.8ea0f868",
     "standard-version": "^5.0.0",
     "surge": "^0.20.1"
   }
